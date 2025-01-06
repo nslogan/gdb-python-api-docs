@@ -1,0 +1,9 @@
+
+# Build output
+build/
+
+# Python
+.venv/
+
+# Untracked development work
+dev/
